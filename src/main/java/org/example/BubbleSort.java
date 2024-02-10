@@ -14,7 +14,7 @@ public class BubbleSort {
                 if (a[j]>a[j+1]){
                     int m=a[j+1];a[j+1]=a[j];a[j]=m;
                 }
-            };
+            }
         }
     }
 
